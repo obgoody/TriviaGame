@@ -1,0 +1,15 @@
+
+body{
+	
+	text-align: center;
+}
+
+.text-muted{
+	color: rgb(255, 98, 0);
+}
+.last-seconds{
+  color: rgb(0, 255, 13);
+}
+.option{
+  margin: 15px;
+}
